@@ -3,7 +3,7 @@
     Bidass
 
   Version:
-    {VERSION}
+    0.9.1
 
   Description:
     TODO
